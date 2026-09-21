@@ -1,0 +1,8 @@
+{
+  "alarm_file": "sounds/Djo_-_End_Of_Beginning_(Hydr0.org).mp3",
+  "loop_alarm": true,
+  "host": "127.0.0.1",
+  "port": 8787,
+  "token": "",
+  "url": ""
+}

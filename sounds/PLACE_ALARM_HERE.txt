@@ -1,0 +1,6 @@
+Put your alarm sound in this folder and name it:
+
+    alarm.mp3
+
+A .wav file works too - just point "alarm_file" in ../config.json at it.
+The watcher loops the file until you press ENTER, so a 10-30 second clip is plenty.

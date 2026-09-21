@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+sounds/*.mp3
+sounds/*.wav
+sounds/*.ogg
+sounds/*.m4a
+config.local.json
